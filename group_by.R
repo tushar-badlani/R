@@ -25,3 +25,8 @@ df2 = data.frame(category, rep)
 A1=left_join(df1, df2)
 
 A2=semi_join(df1,df2)
+
+#tidyr commands
+#data used marketing campaign
+
+

@@ -21,3 +21,4 @@ class(ChickWeight$weight)
 
 #importing dataset
 summary(Titanic)
+
